@@ -9,7 +9,7 @@ flowchart LR
     A["👤 Administrador"]
     R["👤 Recepcionista"]
 
-    subgraph S["Sistema Gym Admin"]
+    subgraph S["Gym Admin"]
         UC1(["Iniciar sesión"])
         UC2(["Gestionar socios"])
         UC3(["Gestionar membresías"])
