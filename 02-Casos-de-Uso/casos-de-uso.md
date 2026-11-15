@@ -2,7 +2,7 @@
 
 ## Sistema de Administración de Gimnasio (Gym Admin)
 
-Este diagrama representa las funcionalidades del sistema y su relación con los dos usuarios autorizados: administrador y recepcionista.
+Representación de las funcionalidades del sistema y su relación con los usuarios autorizados.
 
 ```mermaid
 flowchart LR
