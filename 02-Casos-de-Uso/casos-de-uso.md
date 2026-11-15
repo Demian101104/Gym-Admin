@@ -42,9 +42,3 @@ Tiene acceso a la administración general del gimnasio, la consulta de ingresos 
 ### Recepcionista
 Realiza las operaciones cotidianas del gimnasio, incluyendo el registro de socios, la gestión de membresías, el registro de pagos y la consulta del semáforo.
 
-## Consideraciones
-
-- El sistema cuenta únicamente con dos tipos de usuarios.
-- Los socios no tienen acceso al sistema.
-- La gestión de usuarios y la consulta de ingresos son funciones exclusivas del administrador.
-- El diagrama representa un diseño propuesto a partir de los requisitos del proyecto.
