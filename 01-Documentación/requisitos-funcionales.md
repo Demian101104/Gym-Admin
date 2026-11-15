@@ -73,6 +73,3 @@ El sistema deberá permitir al administrador registrar, consultar, modificar y g
 | Consultar ingresos | Sí | No |
 | Gestionar usuarios | Sí | No |
 
-## 4. Consideraciones
-
-El sistema no contará con cuentas para los socios. Todas las operaciones serán realizadas por el administrador o el recepcionista, de acuerdo con los permisos establecidos.
