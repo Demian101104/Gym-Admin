@@ -60,5 +60,5 @@ Almacena los pagos realizados por los socios, incluyendo fecha, concepto y monto
 
 - **Socios - Membresías (1:N):** un socio puede tener varias membresías registradas a lo largo del tiempo. Cada membresía pertenece a un solo socio.
 - **Socios - Pagos (1:N):** un socio puede realizar varios pagos. Cada pago corresponde a un solo socio.
-- **Membresías - Pagos (1:N opcional):** una membresía puede estar relacionada con varios pagos. Un pago puede asociarse a una membresía o no tener una membresía asociada.
+- **Membresías - Pagos (1:N):** una membresía puede estar relacionada con varios pagos. Un pago puede asociarse a una membresía o no tener una membresía asociada.
 ```
