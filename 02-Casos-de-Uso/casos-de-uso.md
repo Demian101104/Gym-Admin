@@ -6,8 +6,8 @@ Representación de las funcionalidades del sistema y su relación con los usuari
 
 ```mermaid
 flowchart LR
-    A["👤 Administrador"]
-    R["👤 Recepcionista"]
+    A["Administrador"]
+    R["Recepcionista"]
 
     subgraph S["Gym Admin"]
         UC1(["Iniciar sesión"])
